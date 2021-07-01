@@ -1,5 +1,5 @@
 # Coursera_Projects
-Code from Coursera Guided Projects
+Code from Coursera Guided Projects.
 The repository contains:
 
 1: Bitcoin Price Prediction using Facebook Prophet Model
