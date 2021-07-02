@@ -7,3 +7,6 @@ Price for Bitcoin was predicted 30 days into future using open source FB Prophet
     
 2: Gold & Silver Price Prediction using ARIMA in Python - 
 ARIMA model was used to predict prices of gold and silver 30 days into the future in Python
+
+3: Beta and Capital Asset Pricing Model (CAPM) calculation in Python 
+
