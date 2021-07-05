@@ -10,3 +10,5 @@ ARIMA model was used to predict prices of gold and silver 30 days into the futur
 
 3: Beta and Capital Asset Pricing Model (CAPM) calculation in Python 
 
+4: Asset Allocation and Portfolio Statistical Analysis in Python
+
