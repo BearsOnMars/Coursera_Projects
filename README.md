@@ -12,6 +12,8 @@ Skills gained: Cryptocurrency Price Forecasting, Machine Learning, Facebook Prop
 Credential: https://www.coursera.org/account/accomplishments/certificate/TNAE4V946DVP
 
     
+    
+    
 2: Gold & Silver Price Prediction using ARIMA in Python (Jul 21)
 + Explored AutoRegressive Integrated Moving Average (ARIMA) time-series algorithm
 + Built, trained, tested and evaluated the performance of an ARIMA model
@@ -22,6 +24,8 @@ Skills gained: Machine Learning, ARIMA Modeling in Python, Financial Markets For
 Credential: https://www.coursera.org/account/accomplishments/certificate/CRX3SWKFGKRW
 
 
+
+
 3: Beta and Capital Asset Pricing Model (CAPM) calculation in Python (Jul 21)
 + Understood the theory and intuition behind the Capital Asset Pricing Model (CAPM)
 + Calculated Beta and expected returns of securities in Python
@@ -30,6 +34,8 @@ Credential: https://www.coursera.org/account/accomplishments/certificate/CRX3SWK
 Skills gained: Financial Analysis (CAPM), Data Analysis, Python Programming, Data Visualization (DataViz)
 
 Credential: https://www.coursera.org/account/accomplishments/certificate/KXL57USBCKY9
+
+
 
 
 4: Asset Allocation and Portfolio Statistical Analysis in Python (Jul 21)
