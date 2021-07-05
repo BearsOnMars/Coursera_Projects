@@ -8,6 +8,7 @@ The repository contains:
 + Extracted financial data and analyzed it using Google Sheets
 
 Skills gained: Cryptocurrency Price Forecasting, Machine Learning, Facebook Prophet, Plotly Express, Python Programming
+
 Credential: https://www.coursera.org/account/accomplishments/certificate/TNAE4V946DVP
 
     
@@ -17,6 +18,7 @@ Credential: https://www.coursera.org/account/accomplishments/certificate/TNAE4V9
 + Forecasted the price of Gold & Silver 30 days into the future
 
 Skills gained: Machine Learning, ARIMA Modeling in Python, Financial Markets Forecasting, Python Programming
+
 Credential: https://www.coursera.org/account/accomplishments/certificate/CRX3SWKFGKRW
 
 
@@ -26,6 +28,7 @@ Credential: https://www.coursera.org/account/accomplishments/certificate/CRX3SWK
 + Performed interactive data visualization using Plotly Express
 
 Skills gained: Financial Analysis (CAPM), Data Analysis, Python Programming, Data Visualization (DataViz)
+
 Credential: https://www.coursera.org/account/accomplishments/certificate/KXL57USBCKY9
 
 
@@ -35,5 +38,6 @@ Credential: https://www.coursera.org/account/accomplishments/certificate/KXL57US
 + Performed interactive data visualization using Plotly Express
 
 Skills gained: Data Visulazisation, Asset Allocation, Portfolio Analysis, Portfolio statistical Metrics, Python Programming
+
 Credential: https://www.coursera.org/account/accomplishments/certificate/S9Z932SMW38U
 
