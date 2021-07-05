@@ -10,5 +10,11 @@ ARIMA model was used to predict prices of gold and silver 30 days into the futur
 
 3: Beta and Capital Asset Pricing Model (CAPM) calculation in Python 
 
-4: Asset Allocation and Portfolio Statistical Analysis in Python
+4: Asset Allocation and Portfolio Statistical Analysis in Python (Jul 21)
++ Performed exploratory data analysis and visualization of selected stock prices
++ Allocated portfolio weights and calculated portfolio statistical metrics (cumulative returns, sharpe ratio, daily returns)
++ Performed interactive data visualization using Plotly Express
+
+Skills gained: Data Visulazisation, Asset Allocation, Portfolio Analysis, Portfolio statistical Metrics, Python Programming
+Credential: https://www.coursera.org/account/accomplishments/certificate/S9Z932SMW38U
 
