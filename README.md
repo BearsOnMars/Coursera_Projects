@@ -47,3 +47,14 @@ Skills gained: Data Visulazisation, Asset Allocation, Portfolio Analysis, Portfo
 
 Credential: https://www.coursera.org/account/accomplishments/certificate/S9Z932SMW38U
 
+
+
+
+5: Introduction to Statistics in Python (Jul 21)
++ Reviewed introductory statistics functions
++ Explored python libraries (pandas, numpy, matplotlib) and their documentations
++ Performed statistical analysis and created corresponding visualizations in python
+
+Skills gained: Data Visulazisation, Python Programming, Statistical Analysis
+
+Credential: https://www.coursera.org/account/accomplishments/certificate/E9WGS6HWYS3N
