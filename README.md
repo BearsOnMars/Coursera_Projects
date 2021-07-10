@@ -23,7 +23,7 @@ Skills gained: Machine Learning, ARIMA Modeling in Python, Financial Markets For
 
 Credential: https://www.coursera.org/account/accomplishments/certificate/CRX3SWKFGKRW
 
-
+_____________________________________________________________________________________________________________________________
 
 
 3: Beta and Capital Asset Pricing Model (CAPM) calculation in Python (Jul 21)
@@ -35,7 +35,7 @@ Skills gained: Financial Analysis (CAPM), Data Analysis, Python Programming, Dat
 
 Credential: https://www.coursera.org/account/accomplishments/certificate/KXL57USBCKY9
 
-
+_____________________________________________________________________________________________________________________________
 
 
 4: Asset Allocation and Portfolio Statistical Analysis in Python (Jul 21)
@@ -47,7 +47,7 @@ Skills gained: Data Visulazisation, Asset Allocation, Portfolio Analysis, Portfo
 
 Credential: https://www.coursera.org/account/accomplishments/certificate/S9Z932SMW38U
 
-
+_____________________________________________________________________________________________________________________________
 
 
 5: Introduction to Statistics in Python (Jul 21)
@@ -58,3 +58,5 @@ Credential: https://www.coursera.org/account/accomplishments/certificate/S9Z932S
 Skills gained: Data Visulazisation, Python Programming, Statistical Analysis
 
 Credential: https://www.coursera.org/account/accomplishments/certificate/E9WGS6HWYS3N
+
+_____________________________________________________________________________________________________________________________
