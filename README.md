@@ -11,7 +11,7 @@ Skills gained: Cryptocurrency Price Forecasting, Machine Learning, Facebook Prop
 
 Credential: https://www.coursera.org/account/accomplishments/certificate/TNAE4V946DVP
 
-    
+ _____________________________________________________________________________________________________________________________   
     
     
 2: Gold & Silver Price Prediction using ARIMA in Python (Jul 21)
